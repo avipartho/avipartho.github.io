@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Ahmed Tahseen Minhaz</title>
+    <link>https://tahseenb.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Ahmed Tahseen Minhaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tahseen</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/deep-learning/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lung and Heart segmentation from Chest X-ray</title>
+      <link>https://tahseenb.github.io/project/semantic-cnn/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahseenb.github.io/project/semantic-cnn/</guid>
+      <description>&lt;p&gt;The model was trained on JSRT Chest X-ray dataset in which heart and lung boundary are annotated by trained doctors. The dataset is relatively small with only 193 images, however satisfactory result is obtained in the dataset. A sample test data example is provided in the figure below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tahseenb.github.io/img/combined-refinenet.png&#34; alt=&#34;Chest X-ray Segmentation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first image is a sample image from the JSRT dataset. The second image is the ground truth, where the third image is the segmented result. A problem, that I ran into is the model seems to be overfitted in the training dataset, therefore inference obtained from other datasets are not that great. CXRs of different contrast does not perform well in the model. To counter this issue, data augmentation was performed at random crop level and the model was trained on synthetic contrast-corrected images. Results improve when the model is trained with images of different contrast.&lt;/p&gt;
+
+&lt;p&gt;Implementation of RefineNet by &lt;a href=&#34;https://github.com/guosheng/refinenet&#34; target=&#34;_blank&#34;&gt;Guosheng: Here&lt;/a&gt;
+More about PASCAL VOC Challenge can be found &lt;a href=&#34;http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&amp;amp;challengeid=11&amp;amp;compid=6&amp;amp;submid=10653&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Classification of diseases from chest x-ray using deep convolutional neural network</title>
+      <link>https://tahseenb.github.io/project/class-cnn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahseenb.github.io/project/class-cnn/</guid>
+      <description>&lt;p&gt;We are currently working on disease classification from chest x-ray images. The classification results will be updated soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

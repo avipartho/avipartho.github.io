@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ahmed Tahseen Minhaz</title>
+    <link>https://tahseenb.github.io/publication/</link>
+    <description>Recent content in Publications on Ahmed Tahseen Minhaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tahseen</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abnormality Detection and Localization in Chest X-Rays using Deep Convolutional Neural Networks</title>
+      <link>https://tahseenb.github.io/publication/cnn-xray/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahseenb.github.io/publication/cnn-xray/</guid>
+      <description>&lt;p&gt;Details will be published soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sleep Apnea Frame Detection Based on Empirical Mode Decomposition of Delta Wave extracted from Wavelet of EEG Signals.</title>
+      <link>https://tahseenb.github.io/publication/apnea-2/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahseenb.github.io/publication/apnea-2/</guid>
+      <description>&lt;p&gt;Details will be published soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sub-frame based apnea detection exploiting delta band power ratio extracted from EEG signals</title>
+      <link>https://tahseenb.github.io/publication/apnea-1/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://tahseenb.github.io/publication/apnea-1/</guid>
+      <description>&lt;p&gt;Details will be published soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

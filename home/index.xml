@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Avijit Miitra</title>
+    <link>https://avipartho.github.io/home/</link>
+    <description>Recent content in Homes on Ahmed Tahseen Minhaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Avijit</copyright>
+    <lastBuildDate>Sat, 20 Oct 2018 17:20:00 +0000</lastBuildDate>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
